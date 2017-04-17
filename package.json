@@ -1,0 +1,25 @@
+{
+  "name": "react-css-modules-loader",
+  "version": "0.0.1",
+  "description": "A cheap and convenient way to transforms React className to local-scope identity",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clitetailor",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "jsx",
+    "css-modules",
+    "webpack-loader"
+  ],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "css-loader": "^0.27.3",
+    "loader-runner": "^2.3.0",
+    "mocha": "^3.2.0",
+    "sinon": "^2.0.0",
+    "style-loader": "^0.14.1"
+  }
+}
