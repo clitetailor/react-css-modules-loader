@@ -1,5 +1,4 @@
-React CSS Modules Loader
-========================
+<h1 align="center">React CSS Modules Loader</h1>
 
 <h2 align="center">Install</h2>
 
